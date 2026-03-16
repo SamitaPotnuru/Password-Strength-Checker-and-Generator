@@ -2,8 +2,6 @@
 
 A **single-page web application** that checks the strength of a password in real time and allows generating secure passwords.
 
----
-
 ## 🚀 Features
 
 - ✅ **Real-time Password Strength Checker**
@@ -15,8 +13,6 @@ A **single-page web application** that checks the strength of a password in real
 - ✅ **Copy Password to Clipboard**
 - ✅ **Modern Gradient UI**
 
----
-
 ## 💻 Technologies Used
 
 - HTML  
@@ -24,8 +20,6 @@ A **single-page web application** that checks the strength of a password in real
 - JavaScript  
 
 No frameworks required – pure frontend code.
-
----
 
 ## 🖥️ How It Works
 
@@ -42,5 +36,3 @@ No frameworks required – pure frontend code.
 
 4. **Show/Hide Password**  
    - Toggle visibility of your password with the **Show button**.
-
----
